@@ -9,7 +9,8 @@ The Coin project is fully open-source! Commit only on dev branch.
 
 OP DEVS:
 Alin
-Vali
 Serban
+Vali
+(desc alph)
 
 💰 🟡 🪙 💸 🪙 
