@@ -8,9 +8,10 @@ The Coin project is fully open-source! Commit only on dev branch.
 💰 🟡 🪙 💸 🪙 
 
 OP DEVS:
-Alin
-Serban
-Vali
+Allin
+I****
+Se****
+Val******
 (desc alph)
 
 💰 🟡 🪙 💸 🪙 
